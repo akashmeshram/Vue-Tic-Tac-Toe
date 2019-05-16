@@ -1,4 +1,4 @@
-# example
+# Vue TIC TAC TOE
 
 ## Project setup
 ```
@@ -27,3 +27,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Author
+
+*  [Akash Meshram](https://github.com/akashmeshram)
