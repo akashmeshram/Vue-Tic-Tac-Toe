@@ -1,4 +1,4 @@
-# Vue TIC TAC TOE
+<h1 align='center'> Vue TIC TAC TOE </h1>
 
 ## Project setup
 ```
